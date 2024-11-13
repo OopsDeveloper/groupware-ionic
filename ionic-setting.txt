@@ -1,0 +1,9 @@
+nodejs 16.13.1
+nvm list available
+nvm install 16.13.1
+nvm use 16.13.1
+
+npm i -g typescript@4.5.4
+tsc -v
+
+npm i -g @ionic/cli@6.18.1
