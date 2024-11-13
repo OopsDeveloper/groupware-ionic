@@ -3,6 +3,8 @@ nvm list available
 nvm install 16.13.1
 nvm use 16.13.1
 
+node change 18.19.0
+
 npm i -g typescript@4.5.4
 tsc -v
 
